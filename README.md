@@ -43,5 +43,5 @@ Let's not kid ourselves. As important as information about the population is for
 
 Source: Weather data comes from NOAA.
 
-## The Tab
+## The Tableau Story
 And, now, for the moment you've been waiting for... [the Pedal Des Moines Tableau story!](https://public.tableau.com/profile/neal1574#!/vizhome/Bikedata_15994605528710/PedalDesMoinesTheCaseforaLocalBikeShare?publish=yes)
