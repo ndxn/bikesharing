@@ -13,9 +13,15 @@ The following subsections dive into the data as presented in the Tableau story. 
 
 ### Age Trends
 
+Everyone loves a bike ride but not everyone loves them enough to actually go on one. Different age groups will have different modal preferences so it's important to consider who gets around by bike. This triptych of horizontal bar graphs compares identically summarized data for the population of Citibike riders, New York City as a whole, and Des Moines. The findings here are telling: all three metrics see the largest representative groups as 25 to 29 years followed by 30 to 34 years. It should be noted that all three metrics compare represetnative portions expressed as percents instead of the actual values. Des Moines is obviously a smaller city. The question isn't whether a smaller city can support a bike share program--after all, the fleet will be sized accordinglty. The question is whether Des Moines has the trends to support a bike share program.
+
+It should be noted that the summarizing the Citibike ride data was a multi-step process. With more than 2.3 million records, it was necessary for the original summarization by birth year/age to be done within Tableau. The summarized data was exported to CSV. Outliers were removed and new values interpolated as necessary. Finally, the data was summarized into the same bins as used in the American Community Survey. 
+
 Source: New York and Des Moines dempgraphc data is from the 2018 American Community Survey 5-year estimates.
 
 ### New York and Des Moines Median Ages
+
+
 
 Source: Base Maps are layers provided within Tableau without citation of their original sources.
 
